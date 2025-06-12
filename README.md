@@ -1,0 +1,1 @@
+eu coloquei comandos do p5js edtior para fazer meu projeto, usei emojis para representa uma cidade e um campo, e veiculos, meu projeto é como se fosse um jogo, onde você primeiramente clica na tela, e depois para o caminhão que esta transportando alimentos do campo para cidade andar, e por fim, quando chega na cidade você é parabenizado por transpotar o alimento.
